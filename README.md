@@ -20,4 +20,6 @@
 console.log('hello')
 ```
 
+我的网站是[我的官网]（www.baidu.com）
 
+![我的图片](bd_logo1.png)
